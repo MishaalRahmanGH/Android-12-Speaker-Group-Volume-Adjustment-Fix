@@ -1,0 +1,6 @@
+id=a12_volume_adjustment
+name=Android 12 Volume Adjustment for Remote Group Sessions
+version=v1.0
+versionCode=1
+author=MishaalRahman
+description=Re-enable volume adjustment for group cast sessions
